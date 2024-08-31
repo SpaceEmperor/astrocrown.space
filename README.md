@@ -45,6 +45,6 @@ Discord: Join our community chat to connect with other enthusiasts.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 📧 Contact
-For any questions or feedback, please reach out to us at support@astrocrown.space.
+For any questions or feedback, please reach out to us at git@astrocrown.space.
 
 Ad Astra Per Aspera
